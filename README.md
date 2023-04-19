@@ -66,7 +66,7 @@ https://user-images.githubusercontent.com/99883906/232568184-f7e3bf36-80ff-4aa1-
 ![image](https://user-images.githubusercontent.com/99883906/232568905-57729251-e3f0-4388-84e4-e40bef7ae14b.png)
 
 # Технічна частина
-**Усі файли для роботи коду, знаходяться в папці "game_files". Файл "main.py" відповідає за код гри.**
+**Усі файли для роботи коду, знаходяться в папці що і сам код. Файл "main.py" відповідає за код гри.**
 
 
 ![image](https://user-images.githubusercontent.com/99883906/232570562-cf490c17-b9a9-4191-a43e-c3ca031bde07.png)
